@@ -32,7 +32,7 @@ This is a poorly written application, and we're expecting the candidate to great
 * The theater microservice has been developed as a web application with three endpoints (locally on localhost:8080):
   * /theater/schedule/json
     * GET Request to get theater schedule as JSON 
-  * /theater/schedule/test
+  * /theater/schedule/text
     * GET Request to get theater schedule as TEXT
   * /theater/reserve
     * POST Request for customers to reserve movie tickets 
